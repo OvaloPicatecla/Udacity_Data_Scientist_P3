@@ -9,6 +9,7 @@ This dataset comprises simulated data emulating customer interactions within the
 The objective is to integrate transaction, demographic, and offer information to discern which demographic segments exhibit optimal responses to specific offer types.
 It's important to note that this dataset represents a simplified rendition of the actual Starbucks app, as the underlying simulator features only one product, while Starbucks, in reality, offers a wide array of products.
 
+The goal of the project is, after understanding the data properly, to obtain a model that can predict whether an offer is completed or not, based on some of the demographics and offer properties.
 # Modules Used:
 
 For the Data analysis and development of this project, these were the main libraries used:
@@ -23,10 +24,10 @@ Data Processing and Visualization:
     
 Modelling:
 
-  - sklearn.preprocessing import StandardScaler, OneHotEncoder
-  - sklearn.ensemble import RandomForestClassifier
-  - sklearn.model_selection import train_test_split
-  - sklearn.metrics import classification_report, accuracy_score
+  - sklearn.preprocessing  (StandardScaler, OneHotEncoder)
+  - sklearn.ensemble (RandomForestClassifier)
+  - sklearn.model_selection (train_test_split)
+  - sklearn.metrics  (classification_report, accuracy_score)
 
 # Files:
 The repository contains a Files directory which has the following datasets:
