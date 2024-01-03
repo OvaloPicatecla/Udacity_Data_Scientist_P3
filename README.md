@@ -13,9 +13,20 @@ It's important to note that this dataset represents a simplified rendition of th
 
 For the Data analysis and development of this project, these were the main libraries used:
 
+Data Processing and Visualization:
+  - pandas 
+  - numpy 
+  - math
+  - json
+  - seaborn 
+  - matplotlib.pyplot
+    
+Modelling:
 
-
-
+  - sklearn.preprocessing import StandardScaler, OneHotEncoder
+  - sklearn.ensemble import RandomForestClassifier
+  - sklearn.model_selection import train_test_split
+  - sklearn.metrics import classification_report, accuracy_score
 
 # Files:
 The repository contains a Files directory which has the following datasets:
