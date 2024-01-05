@@ -10,6 +10,8 @@ The objective is to integrate transaction, demographic, and offer information to
 It's important to note that this dataset represents a simplified rendition of the actual Starbucks app, as the underlying simulator features only one product, while Starbucks, in reality, offers a wide array of products.
 
 The goal of the project is, after understanding the data properly, to obtain a model that can predict whether an offer is completed or not, based on some of the demographics and offer properties.
+
+
 # Modules Used:
 
 For the Data analysis and development of this project, these were the main libraries used:
@@ -31,12 +33,14 @@ Modelling:
 
 # Files:
 The repository contains a Files directory which has the following datasets:
-
+portfolio.json
+profile.json
+transcript.json (I could not upload it due to Git size restrictions)
 
 
 # Links:
 Jupyter notebook used:
-
+https://github.com/OvaloPicatecla/Udacity_Data_Scientist_P3/blob/main/Starbucks_Capstone_notebook.ipynb
 Summary Write-Up for the project:
-
+https://github.com/OvaloPicatecla/Udacity_Data_Scientist_P3/blob/main/StarBucks%20Capstone%20Project.pdf
 
