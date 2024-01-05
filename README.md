@@ -41,6 +41,7 @@ transcript.json (I could not upload it due to Git size restrictions)
 # Links:
 Jupyter notebook used:
 https://github.com/OvaloPicatecla/Udacity_Data_Scientist_P3/blob/main/Starbucks_Capstone_notebook.ipynb
+
 Summary Write-Up for the project:
 https://github.com/OvaloPicatecla/Udacity_Data_Scientist_P3/blob/main/StarBucks%20Capstone%20Project.pdf
 
