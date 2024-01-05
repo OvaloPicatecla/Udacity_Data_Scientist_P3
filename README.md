@@ -32,10 +32,12 @@ Modelling:
   - sklearn.metrics  (classification_report, accuracy_score)
 
 # Files:
+
 The repository contains a Files directory which has the following datasets:
-portfolio.json
-profile.json
-transcript.json (I could not upload it due to Git size restrictions)
+
+  - portfolio.json
+  - profile.json
+  - transcript.json (I could not upload it due to Git size restrictions)
 
 
 # Links:
