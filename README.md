@@ -49,3 +49,8 @@ https://github.com/OvaloPicatecla/Udacity_Data_Scientist_P3/blob/main/Starbucks_
   
 https://github.com/OvaloPicatecla/Udacity_Data_Scientist_P3/blob/main/StarBucks%20Capstone%20Project.pdf
 
+# Acknowledgements and Licensing:
+
+The data provided for the modelling and analysis was provided by Udacity as a simulation of real data from StarBucks.
+
+
